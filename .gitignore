@@ -1,0 +1,12 @@
+# Node.js / JavaScript
+node_modules/
+.npm/
+
+venv/
+.venv/
+__pycache__/
+cuda-env/
+.env
+
+.DS_Store
+.vscode/
