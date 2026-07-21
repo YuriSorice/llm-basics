@@ -10,3 +10,5 @@ cuda-env/
 
 .DS_Store
 .vscode/
+
+local_openwebtext
